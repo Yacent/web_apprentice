@@ -1,0 +1,19 @@
+name = onepiece
+description = A theme that created by the green-hand.
+version = VERSION
+core = 7.x
+screenshot = screenshot.png
+
+regions[header]			= Header
+regions[page_top] 		= Page Top
+regions[page_bottom]		= Page Bottom
+regions[slideshow] 		= Slideshow
+regions[content]		= Content
+regions[main_menu]		= Main menu
+regions[sidebar_first]		= Sidebarfirst
+regions[sidebar_second]	= Sidebarfirst
+regions[footer]			= Footer
+regions[highlighted]		= Highlighted
+
+
+stylesheets[all][] = assets/css/style.css
